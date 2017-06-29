@@ -1,12 +1,28 @@
-1. http://www.learntosolveit.com/cprogramming/
+1. links 
 
-2. http://www.codeforwin.in/2015/05/basic-programming-practice-problems.html
+	1). http://www.learntosolveit.com/cprogramming/
 
-3. http://www.worldbestlearningcenter.com/index_files/c_tutorial_lesson.htm
+	2). http://www.codeforwin.in/2015/05/basic-programming-practice-problems.html
 
-4. http://www.dummies.com/programming/c/10-programming-with-c-coding-exercises/
+	3). http://www.worldbestlearningcenter.com/index_files/c_tutorial_lesson.htm
 
-5. http://www.learntosolveit.com/cprogramming/
+	4). http://www.dummies.com/programming/c/10-programming-with-c-coding-exercises/
+
+
+2. Bitwise operator
+
+	Bitwise AND operator &
+
+	Bitwise OR operator |
+
+	Bitwise XOR operator ^	按位异或
+
+	Bitwise complement operator ~	按位取反
+
+	Bitwise left shift operator <<
+
+	Bitwise right shift operator >>
+
 
 
 
