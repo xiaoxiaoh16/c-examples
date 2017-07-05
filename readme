@@ -35,7 +35,12 @@
 
 
 
-5. 
+5. Switch case
+
+	switch 语句中的default是可选的，但是case语句根据需求一般都需要带break，除非想连续执行几个case只有最后一个需要有break。
+
+
+6. 
 
 
 
