@@ -69,8 +69,8 @@ int main()
 	//printLeftArrowStar();
 	//printPlusStar();
 	//printXStart();
-	//printEightStar();
-	printHeartStar();
+	printEightStar();
+	//printHeartStar();
 
 }
 
@@ -124,13 +124,13 @@ int printEightStar()
 	scanf("%d", &num);
 	for(i=1; i<=(2*num-1); i++)
 	{
-		for(j=1; j<=(2*num-1); j++)
+		for(j=1; j<=num; j++)
 		{
-			printf("%2c", '&');
-			if((i==1) ||(i==num-2) ||(j==1) ||(j==num-2) ||(i==(2*num-5)))
-				printf("%2c", ' ');
-			else
+			printf("%2c", ' ');	
+			if((i==1) ||(i==num) ||(j==1) ||(j==num) ||(i==(2*num-1)))
 				printf("%2c", '*');
+			else
+				printf("%2c", ' ');
 		}
 			printf("\n");
 	}
